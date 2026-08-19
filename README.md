@@ -7,7 +7,6 @@
 
 <p align="center">
   🌐 <a href="https://jannatchugh01.github.io/">Portfolio</a> &nbsp;•&nbsp;
-  💼 <a href="https://www.linkedin.com/in/jannat-11912b28/">LinkedIn</a> &nbsp;•&nbsp;
   📄 <a href="https://jannatchugh01.github.io/resume/Jannat.pdf">Resume</a> &nbsp;•&nbsp;
   ✉️ chughjannat72@gmail.com
 </p>
@@ -35,6 +34,3 @@ Exploring more advanced ML deployment (cloud hosting, CI/CD) and deepening my SQ
 ### 📫 Let's connect
 Open to Data Analyst / Data Science / ML internship and entry-level opportunities. Feel free to reach out!
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jannatchugh01&show_icons=true&theme=default&hide_title=true" alt="Jannat's GitHub stats" height="150"/>
-</p>
