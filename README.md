@@ -16,7 +16,7 @@ I'm a final-year B.Tech (ECE-AI) student who likes turning messy data into a cle
 | [OTT-Streaming-Platform-Analytics](https://github.com/jannatchugh01/OTT-Streaming-Platform-Analytics) | Does a LioCinema–Jotstar merger make sense, based on subscriber behavior? | Compared LioCinema and Jotstar ahead of a proposed merger, revealing that LioCinema leads in user reach but Jotstar delivers 4.6× higher watch time per user, highlighting retention, plan downgrades and mobile engagement as key priorities. | Power BI, DAX |
 | [AI-JOB-MARKET](https://github.com/jannatchugh01/AI-JOB-MARKET) | What drives salaries and skill demand in AI job postings? | Python appears in 63% of postings; the USA averages about $226K vs about $133K in India | Python, pandas, Seaborn |
 | [Sales-Dashboard](https://github.com/jannatchugh01/Sales-Dashboard) | Which regions and categories drive sales and profit? | $4.14M in sales; the top 3 categories produce 51% of profit | Power BI, SQL |
-| [Used-Mobiles-and-Tablets-Pricing](https://github.com/jannatchugh01/Used-Mobiles-and-Tablets-Pricing) | Can resale price be predicted from device specs? | [Model R² or RMSE] | scikit-learn, FastAPI, React, Docker |
+| [Used-Mobiles-and-Tablets-Pricing](https://github.com/jannatchugh01/Used-Mobiles-and-Tablets-Pricing) | Can resale price be predicted from device specs? | Achieved an R² score of 85.75% on the used mobile price prediction model, with a test MAE of 0.175 and RMSE of 0.215, demonstrating strong predictive performance. | scikit-learn, FastAPI, React, Docker |
 
 ---
 
